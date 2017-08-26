@@ -21,7 +21,7 @@ step 3:
 
   3.in the "Chood/uploads" folder:
     1. user's upload JPG images.
-    2. "thumb_imgs" folder include all thumb images corresponding every user's images in "uplpoad" folder.
+    2. "thumb_imgs" folder include all thumb images corresponding every user's images in "uploads" folder.
 
   4.in the "Chood/images” folder:
     includes the images of UI.
